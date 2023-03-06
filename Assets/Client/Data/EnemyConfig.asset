@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2305fa811c12e0948909f53c872306b1, type: 3}
+  m_Name: EnemyConfig
+  m_EditorClassIdentifier: 
+  <EnemyMB>k__BackingField: {fileID: 5785021849595148588, guid: 3c8f97c771781fc48ae2d50129cf83ce, type: 3}
+  <Speed>k__BackingField: 0.5
+  <StartHealth>k__BackingField: 100
+  <StartDamage>k__BackingField: 5
+  <StartAttackSpeed>k__BackingField: 0.5
+  <DetectionDistance>k__BackingField: 2
+  <MaxEnemySpawn>k__BackingField: 5
+  <MaxSpawnOffset>k__BackingField: 20
+  <RewardValue>k__BackingField: 10

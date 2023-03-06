@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ce394177c79234d876b842ca4a29d6, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  <PlayerMB>k__BackingField: {fileID: 6950391876222294239, guid: 6a57e009c1d83fb459787d2b21febd1b, type: 3}
+  <ProjectilePrefab>k__BackingField: {fileID: 2723319064460200145, guid: dbe39426476405d40bb2f1e8dbc62730, type: 3}
+  <Speed>k__BackingField: 4
+  <StartHealth>k__BackingField: 100
+  <StartDamage>k__BackingField: 7
+  <StartAttackSpeed>k__BackingField: 1
+  <StartHealthRecovery>k__BackingField: 0
+  <DetectingDistance>k__BackingField: 5
+  <ProjectileSpeed>k__BackingField: 5

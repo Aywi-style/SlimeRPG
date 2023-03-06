@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9326e98365813c4986cff4454db6f4b, type: 3}
+  m_Name: UiConfig
+  m_EditorClassIdentifier: 
+  <MainUiPrefabMB>k__BackingField: {fileID: 8083315924605103141, guid: eabad0cf238cab4449ec5789d9dea7fe, type: 3}
+  <HealthbarMBPrefab>k__BackingField: {fileID: 3898645097804817345, guid: d6285ea6ca307184b9cdf6555de86cdf, type: 3}
+  <UIDamageNumberMB>k__BackingField: {fileID: 2705146369938132823, guid: 07c5060208d3ec64fbb73476caccabbc, type: 3}
+  <UIDamageNumberLifeTime>k__BackingField: 1

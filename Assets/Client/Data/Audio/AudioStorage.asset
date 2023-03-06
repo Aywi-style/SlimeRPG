@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34001068f6210994eb5f777cf1f3a0ef, type: 3}
+  m_Name: AudioStorage
+  m_EditorClassIdentifier: 
+  Effects:
+    Zombies:
+      BodyHit: []
+      Screams: []
+    Shoots:
+      BlankShot: {fileID: 0}
+    Explosion:
+      ExplosionNapalm: {fileID: 0}
+      ExplosionGranade: {fileID: 0}
+      FlyNapalm: {fileID: 0}
+  Ambients:
+    ForsakenTrailerMusic: {fileID: 0}
+    EpicEyesOfGlory: {fileID: 0}
+    AnsiaOrchestra: {fileID: 0}
+  LevelEnd:
+    Win: {fileID: 0}
+    Lose: {fileID: 0}
+  UIAudio:
+    ButtonTap: {fileID: 0}
+    AddExp: {fileID: 0}
